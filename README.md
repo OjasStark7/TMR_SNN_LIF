@@ -1,5 +1,5 @@
 # TMR_SNN_LIF
-Verilog Implementation of a TMR Spiking Neural Network (SNN) on FPGA (Q8.8 Fixed Point) using LIF neuron model.
+Verilog Implementation of a TMR Spiking Neural Network (SNN) on FPGA (Q8.8 Fixed Point) using an LIF neuron model.
 
 This project implements a Triple Modular Redundancy (TMR) Spiking Neural Network (SNN) using the Leaky Integrate-and-Fire (LIF) neuron model on an FPGA using Verilog. The implementation uses Q8.8 fixed-point arithmetic for efficient hardware computation.
 
